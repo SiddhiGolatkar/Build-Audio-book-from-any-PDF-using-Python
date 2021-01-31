@@ -4,6 +4,7 @@
 
 Install below 2 packages in Terminal
 
-pip install pyttsx3
-pip install PyPDF2
+- pip install pyttsx3
+
+- pip install PyPDF2
 
